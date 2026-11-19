@@ -1,0 +1,122 @@
+{
+  "healthcare-and-medical": {
+    "readerQuestion": "Can you help with hospital operations as well as patient growth?",
+    "answer": "Yes. A practice website or acquisition campaign helps patients understand and find your services. A hospital may also need a custom system for intake, departmental coordination or reporting. We can scope those builds separately, defining staff responsibilities, information access and exceptions before choosing the technology.",
+    "invitation": "Talk through the next change in your practice.",
+    "prompt": "Describe the patient experience or staff task you want to improve, and who is involved."
+  },
+  "education-and-training": {
+    "readerQuestion": "How can our digital presence support both admissions and the people managing them?",
+    "answer": "Learners need to understand the programme, its expectations and whether it suits them. Counsellors need a reliable record of each applicant's situation. We can connect programme content, institution websites and admissions campaigns with applicant tracking, communication workflows and reporting shaped around your academic calendar.",
+    "invitation": "Let's discuss your next intake or institutional project.",
+    "prompt": "Tell us about the programme or administrative process, the people it serves and what you want to change."
+  },
+  "manufacturing-and-industrial": {
+    "readerQuestion": "Can you understand our factory processes and help us present the business to buyers?",
+    "answer": "Production systems begin with the calculation, the people who check it and the exceptions they handle. Industrial websites begin with the specifications and capabilities a buyer needs to assess. We can work on either brief, translating operational detail into usable software or a stronger commercial presentation.",
+    "invitation": "Bring one factory workflow or commercial objective.",
+    "prompt": "Describe a recurring factory task or the kind of buyer you want to reach, and what needs to improve."
+  },
+  "real-estate-and-property": {
+    "readerQuestion": "How do we make our project easier to evaluate before buyers book a visit?",
+    "answer": "Give buyers a consistent account of the location, property and intended experience across your identity, website and campaigns. Then help sales staff record what each buyer needs and what happened at the visit. We can shape both the presentation and the enquiry and visit-coordination workflows.",
+    "invitation": "Let's discuss the project you want buyers to understand.",
+    "prompt": "Tell us about the property, its intended buyers and what you want to achieve with the next phase."
+  },
+  "architecture-interiors-and-home-improvement": {
+    "readerQuestion": "Can our portfolio attract projects that actually fit the way we work?",
+    "answer": "A portfolio can explain your decisions, responsibilities and range alongside the finished spaces. We can develop that story across your website and campaigns, then structure enquiries around project type, location and requirements. Brief, proposal and approval workflows can help carry the same clarity into the engagement.",
+    "invitation": "Tell us what you want your next projects to look like.",
+    "prompt": "Describe the work you want more of, the clients it suits and any project-coordination task you want to improve."
+  },
+  "retail-and-e-commerce": {
+    "readerQuestion": "Can you improve the buying experience beyond the advertising?",
+    "answer": "The product promise has to hold together from the first image to delivery information and customer support. We can refine product content, campaign creative and the storefront, then scope connections between order, stock and service tools so staff have the information needed to handle a purchase.",
+    "invitation": "Let's look at the experience around your products.",
+    "prompt": "Tell us what you sell, who buys it and the part of shopping or order handling you want to improve."
+  },
+  "hospitality-food-and-events": {
+    "readerQuestion": "Can you help us attract the bookings that suit our business?",
+    "answer": "A weekday stay, a wedding enquiry and a dinner reservation need different information. We can shape your website, creative and campaigns around the occasions that matter to you. Booking integrations and request-management workflows can then help staff coordinate availability, preferences and the details behind the experience.",
+    "invitation": "Talk to us about the experience you want people to book.",
+    "prompt": "Describe your venue or offering, the bookings you want and what your team needs to coordinate better."
+  },
+  "beauty-wellness-and-personal-care": {
+    "readerQuestion": "How can our online presence feel as considered as the service itself?",
+    "answer": "Start with what a client needs to understand before their first appointment: the service, the setting and what to expect. We can express that through brand identity, a website and local campaigns, with booking and customer communication workflows that help your staff maintain the experience.",
+    "invitation": "Let's shape the first impression around your service.",
+    "prompt": "Tell us about the experience you offer, the customers you serve and the change you are planning."
+  },
+  "professional-services": {
+    "readerQuestion": "How do we show the value of expertise before a prospective client speaks to us?",
+    "answer": "Explain the situations you handle, the decisions your work supports and what an engagement involves. We can turn that into positioning, service pages and useful content. Client intake, document review and approval workflows can also make the experience of working with your practice more consistent.",
+    "invitation": "Let's make your expertise easier to assess.",
+    "prompt": "Describe the engagements you want, the clients they suit and any intake or delivery task you want to improve."
+  },
+  "technology-saas-and-startups": {
+    "readerQuestion": "Can you help us explain the product while working out what to build next?",
+    "answer": "A specific user and a useful task give both the product and its positioning a starting point. We can shape the website, demo and launch activity around that value, while scoping a prototype, custom application or onboarding improvement that tests an important assumption with real users.",
+    "invitation": "Bring the product idea and the decision ahead.",
+    "prompt": "Tell us who the product is for, what they need to do and what your next release should establish."
+  },
+  "finance-insurance-and-fintech": {
+    "readerQuestion": "Can you make our offering clearer while respecting our review and approval process?",
+    "answer": "We can organise websites, product explanations and enquiry journeys around information approved by your authorised reviewers. The same engagement can scope internal tools for role-based access, document review and traceable decisions. Your team defines permitted claims and approval requirements; the design and implementation must reflect them.",
+    "invitation": "Let's discuss the customer journey and its approval requirements.",
+    "prompt": "Describe the offering or workflow, the intended audience and who needs to review the work."
+  },
+  "automotive-and-mobility": {
+    "readerQuestion": "Can our digital setup serve vehicle buyers and service customers differently?",
+    "answer": "A vehicle buyer needs details that support comparison; a service customer needs to understand the job and arrange a suitable time. We can develop those distinct website and campaign journeys, alongside scoped inventory presentation, booking coordination and job-status tools for the staff handling each request.",
+    "invitation": "Let's discuss the automotive experience you want to improve.",
+    "prompt": "Tell us whether you sell vehicles, provide services or manage mobility, and what you want customers or staff to do better."
+  },
+  "logistics-and-supply-chain": {
+    "readerQuestion": "Can you make our capabilities clearer to buyers and our work easier to coordinate?",
+    "answer": "A buyer should be able to establish your service coverage and supply the details needed for a quotation. We can organise that information through your website and enquiry process, then scope dispatch, status and reporting workflows around the records and responsibilities your operations team already uses.",
+    "invitation": "Bring one service offering or coordination challenge.",
+    "prompt": "Describe the logistics service or operational task, the teams involved and what you want to make easier."
+  },
+  "energy-solar-and-sustainability": {
+    "readerQuestion": "How do we help customers understand a project before a site assessment?",
+    "answer": "Explain the intended application, the assessment process and the assumptions behind any performance estimates. We can develop the website, project content and campaigns around those details, while scoping ways to pass survey findings, proposal versions and approvals between the people responsible for assessing and delivering the project.",
+    "invitation": "Let's discuss the project and how customers evaluate it.",
+    "prompt": "Tell us about your offering, its intended customers and the assessment or delivery process you want to improve."
+  },
+  "agriculture-and-agribusiness": {
+    "readerQuestion": "Can you account for our seasons, dealer relationships and field-based work?",
+    "answer": "A dealer, farmer and procurement team need different product information. We can shape websites, regional content and seasonal campaigns for the relevant audience, then scope order and field-reporting workflows around staff routines and connectivity. The intended users and buying period guide what should be built first.",
+    "invitation": "Let's plan around your market and next season.",
+    "prompt": "Describe your products or field operation, the people you serve and what you want to achieve in the coming season."
+  },
+  "exporters-and-international-trade": {
+    "readerQuestion": "What would help an overseas buyer take our business seriously before contacting us?",
+    "answer": "Make product specifications, business capabilities and order requirements straightforward to assess. We can organise a website, catalogue and market-specific content around that evaluation. Structured quotation requests, document workflows and sales tracking can also help your team respond with the right information as the discussion develops.",
+    "invitation": "Let's discuss the buyers and markets you want to reach.",
+    "prompt": "Tell us what you export, the markets you are considering and the buyer or quotation experience you want to improve."
+  },
+  "media-entertainment-and-creative-businesses": {
+    "readerQuestion": "Can you give our work a distinctive presence without making commissioning harder?",
+    "answer": "Creative character and a clear commercial offer can sit together. We can shape a portfolio or release website, explain how to commission your work and support audience discovery through campaigns. Brief intake, asset references and review workflows can bring structure to the collaboration that follows.",
+    "invitation": "Bring the work you want the world to see.",
+    "prompt": "Describe your studio, creative offering or release, its audience and the experience you want to create."
+  },
+  "travel-and-tourism": {
+    "readerQuestion": "Can you help us sell the experience while keeping the practical details clear?",
+    "answer": "Travellers need to picture the trip and understand its inclusions, pace and booking expectations. We can connect destination content, a travel website and seasonal campaigns with structured enquiries. Itinerary versions, booking information and operational handoffs can be addressed through separately scoped workflows and integrations.",
+    "invitation": "Let's discuss the journey you want travellers to choose.",
+    "prompt": "Tell us about your trips, the travellers they suit and the booking or coordination experience you want to improve."
+  },
+  "government-ngos-and-public-sector-organisations": {
+    "readerQuestion": "Can you make a programme easier for people to access and for our team to administer?",
+    "answer": "People need understandable eligibility information and a practical way to complete their task. We can shape programme websites, public communication and registration journeys around language and accessibility needs. Submission review, role-based access and programme reporting can then be scoped around the staff responsible for administering the service.",
+    "invitation": "Let's discuss the public task your programme needs to support.",
+    "prompt": "Describe the programme, who it serves and what participants or administrators need to accomplish more easily."
+  },
+  "defence-and-aerospace": {
+    "readerQuestion": "What can we discuss with Digiator at the research stage?",
+    "answer": "A bounded protective-research workflow is an appropriate starting point: organising approved technical material, presenting analysis or recording human review. We can explore knowledge interfaces and decision-support prototypes around agreed access and evaluation requirements. This capability remains at prototype and active-research stage, with people interpreting outputs and making decisions.",
+    "invitation": "Discuss a clearly bounded protective-research workflow.",
+    "prompt": "Describe the research task and intended reviewers in general terms, without sharing sensitive technical material."
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Private review deployment. Update on approved public-domain launch.

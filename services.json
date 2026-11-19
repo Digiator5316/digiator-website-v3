@@ -1,0 +1,352 @@
+[
+  {
+    "slug": "strategy",
+    "name": "Strategy & digital consulting",
+    "short": "Decide where to invest—and what to build first.",
+    "headline": "Put your next investment behind a plan you can build.",
+    "summary": "A market to enter, an offer to launch or a business process to change. Work out what matters first, what the work involves and what needs evidence.",
+    "intro": "When a website, a campaign and a new system all sound useful, the harder question is what should come first. We examine the objective, the customer or operating journey, and the constraints. You get an ordered brief with responsibilities and the questions that still need answering.",
+    "deliverables": [
+      [
+        "Business diagnosis",
+        "A map of the buying journey or operating process, the constraints we can establish, and the questions that still need evidence."
+      ],
+      [
+        "Positioning & priorities",
+        "A focused audience, a clearer offer and an ordered set of actions tied to your commercial objective."
+      ],
+      [
+        "A buildable brief",
+        "Scope, stakeholders, dependencies and acceptance criteria for the next phase—so a strategy can become real work."
+      ]
+    ],
+    "fit": [
+      "Entering a market or launching a service",
+      "Choosing between campaigns, a website and operational changes",
+      "Scoping a complex software or automation project"
+    ],
+    "steps": [
+      "Understand the decision and the information available.",
+      "Speak to the people closest to the customer or workflow.",
+      "Agree the priorities, the scope and how progress will be judged."
+    ],
+    "proof": "A manufacturing software engagement made the importance of roles, calculation rules and department approvals concrete. Those are questions to resolve in discovery, before they become changes during delivery.",
+    "proofSlug": "manufacturing-pims",
+    "faq": [
+      [
+        "What happens on the free call?",
+        "We discuss the objective, your situation and whether there is a fit. A deeper audit, research exercise or technical blueprint is a separately scoped engagement."
+      ],
+      [
+        "Can you help us implement the plan?",
+        "Yes. The relevant marketing, creative, web, data or software work can follow as an agreed phase. You can also use the agreed deliverables with your own team."
+      ]
+    ],
+    "introTitle": "Start with the decision. Then define the work.",
+    "stepLabels": [
+      "Understand the decision",
+      "Choose the priorities",
+      "Define the brief"
+    ]
+  },
+  {
+    "slug": "performance-marketing",
+    "name": "Performance marketing",
+    "short": "Reach the right buyers and track what follows the enquiry.",
+    "headline": "Reach the right people. Know what happens next.",
+    "summary": "Google and Meta campaigns built around your offer, the buying decision and the team responding to enquiries. Follow the journey beyond the click.",
+    "intro": "A click tells you someone noticed. An enquiry tells you they took a step. Neither tells you whether the conversation went anywhere. We plan the audience, message, landing experience and measurement together so the team can see where attention becomes a business opportunity.",
+    "deliverables": [
+      [
+        "Campaign strategy & creative",
+        "Audience and search-intent planning, campaign structure, messages and creative built around the decision you want a customer to make."
+      ],
+      [
+        "Landing & enquiry journey",
+        "Focused pages, appropriate qualifying questions and a clear handoff to the people responding to enquiries."
+      ],
+      [
+        "Measurement & improvement",
+        "An agreed view of spend, enquiries and subsequent outcomes, with regular decisions about targeting, creative and the journey."
+      ]
+    ],
+    "fit": [
+      "Generating demand for a clear offer",
+      "Improving the quality of existing enquiries",
+      "Launching in a new location or reaching a new audience"
+    ],
+    "steps": [
+      "Agree the offer, audience, budget and meaningful outcome.",
+      "Prepare the campaign, landing journey and tracking.",
+      "Review enquiry quality with your team and improve from real feedback."
+    ],
+    "proof": "One documented five-city healthcare campaign recorded 670 enquiries, 45 appointments and 16 patients. Reporting continued beyond the initial form submission.",
+    "proofSlug": "healthcare-growth",
+    "faq": [
+      [
+        "Is ad spend included in your fee?",
+        "Media spend and the delivery scope are discussed separately in the proposal. Campaign accounts should be controlled by your business."
+      ],
+      [
+        "Do you guarantee a cost per customer?",
+        "No. We agree the goals and measurement method. Results depend on the market, offer, budget and your response to enquiries."
+      ]
+    ],
+    "introTitle": "What happens between a click and a customer?",
+    "stepLabels": [
+      "Define the offer",
+      "Build the campaign journey",
+      "Review the business signals"
+    ]
+  },
+  {
+    "slug": "seo-content-social",
+    "name": "SEO, content & social",
+    "short": "Get found with content that helps people make a decision.",
+    "headline": "Be useful before they’re ready to enquire.",
+    "summary": "Answer the questions your customers are already asking. Build search visibility, website content and a social presence around what helps them understand and choose.",
+    "intro": "A search, a service page and a social post may all be part of the same decision. We organise the information around the audience: what they are trying to understand, what you can demonstrate, and what a sensible next step looks like.",
+    "deliverables": [
+      [
+        "Search & content structure",
+        "A practical view of search intent, existing pages, content gaps and the information your audience needs."
+      ],
+      [
+        "Editorial production",
+        "Website copy, articles, explainers and social content shaped around your expertise and reviewed with the right people."
+      ],
+      [
+        "Publishing & learning",
+        "A workable publishing schedule, on-page improvements and reporting on discovery and relevant actions."
+      ]
+    ],
+    "fit": [
+      "Making specialist expertise easier to discover",
+      "Building a useful presence beyond paid campaigns",
+      "Bringing consistency to scattered content"
+    ],
+    "steps": [
+      "Learn the questions customers ask your team.",
+      "Organise the topics and improve the pages that matter.",
+      "Publish, measure and develop the content that earns attention."
+    ],
+    "proof": "Healthcare work has included patient-education content alongside acquisition and follow-up. The useful lesson is to answer the concerns that sit between discovery and a decision.",
+    "proofSlug": "healthcare-growth",
+    "faq": [
+      [
+        "Can you guarantee a search position?",
+        "No. We can improve the relevance, quality and technical foundations of the work we control, and report on what changes."
+      ],
+      [
+        "Who reviews specialist content?",
+        "Your nominated subject expert approves information about your services, products and professional practice before publication."
+      ]
+    ],
+    "introTitle": "What do people need to know before they trust you?",
+    "stepLabels": [
+      "Understand the questions",
+      "Create the answers",
+      "Publish and improve"
+    ]
+  },
+  {
+    "slug": "brand-creative-ai",
+    "name": "Brand, creative & AI media",
+    "short": "Turn your positioning into a brand people recognise.",
+    "headline": "Make the quality of your work easier to see.",
+    "summary": "Positioning, identity, creative and media that help the right customers understand your value—and recognise it wherever they meet your business.",
+    "intro": "The experience you deliver may be stronger than the impression your website, presentation or campaign creates. We work from the audience and proposition outward: what you want to be known for, how it should look and sound, and how to carry it across the places customers see you.",
+    "deliverables": [
+      [
+        "Positioning & identity",
+        "A clear proposition and a visual identity system with practical guidance for consistent use."
+      ],
+      [
+        "Creative for real channels",
+        "Campaign assets, presentations, website direction and content formats designed for the places they will appear."
+      ],
+      [
+        "Video & AI-assisted media",
+        "Explain the offering through suitable video and media. Where AI or a likeness is involved, agree permissions, disclosure and human review."
+      ]
+    ],
+    "fit": [
+      "Launching a distinctive business or offer",
+      "Bringing a dated identity up to the standard of the work",
+      "Aligning brand, website and campaign material"
+    ],
+    "steps": [
+      "Understand the audience, the offer and the desired impression.",
+      "Develop the central idea and a coherent visual direction.",
+      "Produce the agreed assets and a usable handover."
+    ],
+    "proof": "For a wellness-tourism concept, the founding team brought the brand story, website and concept marketing together. The work made an unfamiliar experience easier to understand.",
+    "proofSlug": "wellness-growth",
+    "faq": [
+      [
+        "Can we keep our existing logo?",
+        "Yes. We assess what should be preserved and what needs to work better. A new identity is only one possible response."
+      ],
+      [
+        "Will AI replace our actual people or work?",
+        "Real work should remain the basis of your credibility. AI-assisted formats are scoped deliberately and never presented as real client evidence."
+      ]
+    ],
+    "introTitle": "Your first impression should belong to your business.",
+    "stepLabels": [
+      "Define what sets you apart",
+      "Develop the identity and creative",
+      "Apply it to real touchpoints"
+    ]
+  },
+  {
+    "slug": "websites",
+    "name": "Websites & digital experiences",
+    "short": "Explain the value. Show the evidence. Make the next step easy.",
+    "headline": "Your website should help people decide.",
+    "summary": "Help visitors understand your offer, see why it fits and take the next step. Content, design and development built around that decision—on desktop and mobile.",
+    "intro": "Usually more than a list of services. They want to know whether you understand their situation, what working with you involves and why they should trust you. We turn those questions into the page structure, copy, proof and interactions—then build the experience around them.",
+    "deliverables": [
+      [
+        "Content & experience",
+        "Page architecture, buyer questions, copy and interaction design organised around the site's purpose."
+      ],
+      [
+        "Design & development",
+        "Responsive implementation on a suitable stack, from WordPress to custom applications. The choice follows the content and functionality."
+      ],
+      [
+        "Launch & handover",
+        "Testing, agreed search and measurement foundations, access handover and guidance for maintaining the site."
+      ]
+    ],
+    "fit": [
+      "Launching a brand or replacing an outdated website",
+      "Building campaign pages for a specific offer",
+      "Creating a portal or more involved web experience"
+    ],
+    "steps": [
+      "Agree who the site serves and what it must accomplish.",
+      "Design and review the content and working experience.",
+      "Test the important journeys, launch and hand over."
+    ],
+    "proof": "Delivered web work spans WordPress, PHP/MySQL and React-based builds. A real-estate engagement combined the identity, website and site-visit journey.",
+    "proofSlug": "real-estate-sitevisit",
+    "faq": [
+      [
+        "WordPress or a custom build?",
+        "We choose according to editing needs, functionality, integrations and ongoing maintenance. The simplest suitable approach is usually the best place to start."
+      ],
+      [
+        "What will we own?",
+        "Your proposal specifies deliverables and access. Custom deliverables transfer under the agreed contract and payment terms; third-party licences and hosting retain their own terms."
+      ]
+    ],
+    "introTitle": "What does a visitor need before they’re ready?",
+    "stepLabels": [
+      "Map the visitor’s decision",
+      "Write, design and build",
+      "Test, launch and hand over"
+    ]
+  },
+  {
+    "slug": "data-crm-automation",
+    "name": "Data, CRM & automation",
+    "short": "Connect the record, the responsible person and the next action.",
+    "headline": "Make the next action obvious.",
+    "summary": "Bring enquiries, records, responsibilities and reporting into a process your team can follow. Automate the repeatable steps and keep the exceptions visible.",
+    "intro": "A lead can be recorded and still be missed. A report can exist and still leave the team unsure what to do. We define the stages, information and responsibilities first, then connect the tools and automations that help people act on them.",
+    "deliverables": [
+      [
+        "A usable customer pipeline",
+        "Agreed stages, appropriate data fields, assigned responsibilities and a consistent way to track progress."
+      ],
+      [
+        "Workflow automation",
+        "Notifications, reminders, handoffs and integrations around repeatable work—with visible exceptions and human decisions."
+      ],
+      [
+        "Reporting that answers questions",
+        "Dashboards and measurement definitions that help your team understand what happened and decide what to do next."
+      ]
+    ],
+    "fit": [
+      "Bringing scattered enquiries into one process",
+      "Reducing repeated entry and missed handoffs",
+      "Understanding performance beyond clicks and form submissions"
+    ],
+    "steps": [
+      "Map the current workflow and establish a baseline.",
+      "Build and test one useful flow with real users.",
+      "Document the process and expand what proves useful."
+    ],
+    "proof": "Healthcare reporting connected campaign enquiries with appointments and patient outcomes. Manufacturing delivery applied explicit roles and approvals to operational data.",
+    "proofSlug": "healthcare-growth",
+    "faq": [
+      [
+        "Do we need to replace our CRM?",
+        "Not necessarily. We first assess whether the existing tools can support the required workflow and integrations."
+      ],
+      [
+        "Should every step be automated?",
+        "No. Judgment, sensitive decisions and exceptions need clear human responsibility. Automation should make those decisions easier to handle."
+      ]
+    ],
+    "introTitle": "Every enquiry or task needs somewhere to go.",
+    "stepLabels": [
+      "Map the handovers",
+      "Connect the workflow",
+      "Check the records and exceptions"
+    ]
+  },
+  {
+    "slug": "custom-software-ai",
+    "name": "Custom software & AI systems",
+    "short": "Put your workflows, rules and approvals into usable software.",
+    "headline": "Build a system around the way your business works.",
+    "summary": "Custom applications for the processes a standard tool does not fit. Make the roles, calculations, approvals and information work together—with AI where the task calls for it.",
+    "intro": "The difficult part of an internal system often sits between the screens: who can change a figure, what needs approval, and what happens when the usual process breaks. We work through those details with the people doing the job, then build a core they can test with realistic examples.",
+    "deliverables": [
+      [
+        "Discovery & specification",
+        "Users, rules, data, integrations and acceptance criteria captured with the departments that will use the system."
+      ],
+      [
+        "A working application",
+        "Role-based interfaces, calculations, approvals and reporting developed in reviewable stages."
+      ],
+      [
+        "Deployment & continuity",
+        "An agreed deployment environment, documentation and handover, with maintenance and future changes scoped clearly."
+      ]
+    ],
+    "fit": [
+      "Replacing a manual operational workflow",
+      "Modernising a legacy application",
+      "Building a knowledge assistant or bounded AI-assisted workflow"
+    ],
+    "steps": [
+      "Define the process with its users and decision-makers.",
+      "Build a working core and test the important rules and exceptions.",
+      "Deploy, support adoption and extend through agreed changes."
+    ],
+    "proof": "A six-module production-incentive platform with a five-level approval workflow was delivered for a cable manufacturer and confirmed active by the client. This is delivered custom software; AI applications are scoped separately.",
+    "proofSlug": "manufacturing-pims",
+    "faq": [
+      [
+        "Does the solution need AI?",
+        "Only if it improves the job. Calculations, approvals and deterministic rules often need reliable software. AI is considered for suitable information tasks, with human review and agreed data handling."
+      ],
+      [
+        "How are new requirements handled?",
+        "Changes are recorded, assessed for cost and schedule, and agreed before implementation. A working pilot helps discover requirements early."
+      ]
+    ],
+    "introTitle": "Make the rules visible before writing the screens.",
+    "stepLabels": [
+      "Understand the rules",
+      "Test a working core",
+      "Prepare for everyday use"
+    ]
+  }
+]

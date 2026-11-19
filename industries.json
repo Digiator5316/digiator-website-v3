@@ -1,0 +1,342 @@
+[
+  {
+    "slug": "healthcare-and-medical",
+    "name": "Healthcare and Medical",
+    "eyebrow": "From first enquiry to everyday operations",
+    "headline": "Build a better experience around care.",
+    "summary": "A clinic seeking patients and a hospital coordinating departments need different answers. We connect relevant acquisition and digital experience work with carefully scoped operational systems, starting with the people and processes involved.",
+    "buyer": "Clinic owners, hospital administrators and specialist practices.",
+    "questions": ["Is the priority demand, appointment conversion or operational capacity?", "Where do patients need clearer information before booking?", "Which staff handoffs still depend on repeated manual entry?"],
+    "tracks": [
+      {"title": "Patient discovery", "body": "Help suitable patients understand the practice and take an informed next step.", "deliverables": ["Service campaigns", "Local search presence", "Appointment journeys"]},
+      {"title": "Practice presentation", "body": "Explain specialities, clinicians and practical visit information through an accessible website.", "deliverables": ["Practice websites", "Speciality content", "Trust-building creative"]},
+      {"title": "Hospital and clinic operations", "body": "Scope custom intake, coordination and reporting tools around approved workflows and information access.", "deliverables": ["Workflow mapping", "Role-based systems", "Operational dashboards"]}
+    ],
+    "proof": "Delivered healthcare acquisition work. Hospital operational systems are proposed custom builds, scoped separately.",
+    "proofSlug": "healthcare-growth",
+    "firstStep": "Review one patient journey or one departmental workflow and agree a measurable first scope."
+  },
+  {
+    "slug": "education-and-training",
+    "name": "Education and Training",
+    "eyebrow": "Make the next learning decision clearer",
+    "headline": "Help learners choose. Help teams deliver.",
+    "summary": "Choosing a course involves outcomes, credibility, timing and often a parent or employer. We can improve how an institution presents its offer, manages admissions and coordinates the work behind each learner's experience.",
+    "buyer": "Schools, training institutes, coaching businesses and education teams.",
+    "questions": ["What must learners and parents understand before applying?", "Where do counsellors lose track of an applicant's next step?", "Which academic or administrative records need a shared view?"],
+    "tracks": [
+      {"title": "Course discovery", "body": "Match messages and campaigns to the audience, qualification and enrolment calendar.", "deliverables": ["Course campaigns", "Search content", "Open-day journeys"]},
+      {"title": "Institution experience", "body": "Make programmes, eligibility and practical expectations straightforward to compare and understand.", "deliverables": ["Institution websites", "Programme pages", "Course explainers"]},
+      {"title": "Admissions and administration", "body": "Scope applicant tracking and routine coordination around how counsellors and administrators work.", "deliverables": ["Admissions workflows", "Counsellor dashboards", "Communication automation"]}
+    ],
+    "proof": "These are proposed education applications of Digiator's marketing, website and custom-software capabilities.",
+    "proofSlug": "",
+    "firstStep": "Map one programme's journey from discovery to confirmed enrolment, including staff responsibilities."
+  },
+  {
+    "slug": "manufacturing-and-industrial",
+    "name": "Manufacturing and Industrial",
+    "eyebrow": "Factory workflows. Commercial confidence.",
+    "headline": "Make complex operations easier to run.",
+    "summary": "Production, HR and finance can see the same transaction differently. We translate those responsibilities into usable software, while helping industrial businesses present their capabilities clearly to technical buyers and procurement teams.",
+    "buyer": "Manufacturers, plant leaders, operations teams and industrial sales businesses.",
+    "questions": ["Where are production figures re-entered or disputed?", "Which approvals delay a calculation or decision?", "Can a prospective buyer assess your capabilities before contacting sales?"],
+    "tracks": [
+      {"title": "Operational software", "body": "Build around actual roles, exceptions and approvals rather than a generic department list.", "deliverables": ["Workflow discovery", "Role-based applications", "Approval histories"]},
+      {"title": "Industrial presentation", "body": "Help buyers understand products, applications and the information needed for a serious enquiry.", "deliverables": ["Capability websites", "Product catalogues", "Technical content"]},
+      {"title": "Commercial coordination", "body": "Make quotation requests and sales follow-up easier to organise and review.", "deliverables": ["Enquiry qualification", "Sales workflows", "Management dashboards"]}
+    ],
+    "proof": "Delivered a live production-incentive platform with six operational sections and five approval levels for a cable manufacturer.",
+    "proofSlug": "manufacturing-pims",
+    "firstStep": "Walk through one recurring calculation or approval, using its real inputs and exceptions."
+  },
+  {
+    "slug": "real-estate-and-property",
+    "name": "Real Estate and Property",
+    "eyebrow": "From property information to a meaningful visit",
+    "headline": "Give buyers a reason to visit.",
+    "summary": "A property decision depends on location, suitability, confidence and timing. We help present the offer, attract relevant interest and organise the journey from first enquiry to site visit with useful context at each step.",
+    "buyer": "Developers, property channel partners and real-estate businesses.",
+    "questions": ["What makes this property relevant to the intended buyer?", "Which information should buyers see before requesting a visit?", "Can the team distinguish booked, attended and rescheduled visits?"],
+    "tracks": [
+      {"title": "Project presentation", "body": "Bring the project's proposition and practical details into a coherent digital experience.", "deliverables": ["Project identity", "Property websites", "Sales collateral"]},
+      {"title": "Buyer acquisition", "body": "Connect campaign messages to the property and a clear site-visit action.", "deliverables": ["Search campaigns", "Social campaigns", "Visit landing pages"]},
+      {"title": "Visit coordination", "body": "Scope tools for assigning enquiries, recording conversations and reviewing visit progress.", "deliverables": ["Lead routing", "Visit workflows", "Sales dashboards"]}
+    ],
+    "proof": "Delivered brand identity, a website and Meta/Google site-visit funnels for a premium property channel partner.",
+    "proofSlug": "real-estate-sitevisit",
+    "firstStep": "Review one project's buyer proposition and the current enquiry-to-visit journey."
+  },
+  {
+    "slug": "architecture-interiors-and-home-improvement",
+    "name": "Architecture, Interiors and Home Improvement",
+    "eyebrow": "Show the work. Qualify the project.",
+    "headline": "Turn your portfolio into a conversation.",
+    "summary": "A beautiful portfolio should help a prospective client understand your approach and whether their project fits. We connect project storytelling, relevant acquisition and practical enquiry workflows for design and home-improvement businesses.",
+    "buyer": "Architects, interior studios, contractors and home-improvement specialists.",
+    "questions": ["Does the portfolio explain your role and design decisions?", "Which project details make an enquiry useful?", "How does an approved enquiry become a brief and proposal?"],
+    "tracks": [
+      {"title": "Portfolio and positioning", "body": "Explain the kind of work you do through relevant projects and clear service boundaries.", "deliverables": ["Portfolio websites", "Project stories", "Studio identity"]},
+      {"title": "Project acquisition", "body": "Shape campaign enquiries around location, project type and the information your team needs.", "deliverables": ["Local campaigns", "Segmented enquiry forms", "Project landing pages"]},
+      {"title": "Project coordination", "body": "Scope straightforward ways to manage briefs, proposals and client decisions as work develops.", "deliverables": ["Enquiry tracking", "Proposal workflows", "Client update systems"]}
+    ],
+    "proof": "Delivered construction/design campaigns using plot-size-segmented forms to generate plot-owner enquiries.",
+    "proofSlug": "construction-leadgen",
+    "firstStep": "Choose one service and define the project information needed before a useful first meeting."
+  },
+  {
+    "slug": "retail-and-e-commerce",
+    "name": "Retail and E-commerce",
+    "eyebrow": "Discovery, purchase and repeat business",
+    "headline": "Make buying from you feel effortless.",
+    "summary": "An online shop needs a clear product offer and a reliable experience after checkout. We can work across acquisition, storefront presentation and the operational information that helps a retail team serve customers consistently.",
+    "buyer": "Retail brands, independent stores and e-commerce operators.",
+    "questions": ["Do customers understand why this product suits them?", "Where do shoppers hesitate before completing an order?", "Can staff see the order and customer information they need?"],
+    "tracks": [
+      {"title": "Product discovery", "body": "Connect product positioning, creative and campaigns to the audience and buying occasion.", "deliverables": ["Product campaigns", "Search content", "Merchandising creative"]},
+      {"title": "Storefront experience", "body": "Make products, variants, delivery expectations and purchase steps easier to understand.", "deliverables": ["Storefront design", "Product pages", "Checkout review"]},
+      {"title": "Retail operations", "body": "Scope integrations and reporting around the order, stock and service tools already in use.", "deliverables": ["Order workflows", "System integrations", "Customer dashboards"]}
+    ],
+    "proof": "Retail applications are proposed scopes; Digiator's delivered website and software work provides adjacent experience.",
+    "proofSlug": "",
+    "firstStep": "Review one product category from campaign click through purchase and fulfilment communication."
+  },
+  {
+    "slug": "hospitality-food-and-events",
+    "name": "Hospitality, Food and Events",
+    "eyebrow": "Make the experience easier to choose",
+    "headline": "Win the right booking for your business.",
+    "summary": "A room, a restaurant table and an event venue involve different decisions. We can help communicate the experience, match campaigns to booking needs and improve how teams coordinate requests, availability and guest information.",
+    "buyer": "Hotels, restaurants, venues, caterers and event businesses.",
+    "questions": ["Which booking types and dates matter most commercially?", "What must a guest know before making contact?", "Where do availability checks and customer requests become repetitive?"],
+    "tracks": [
+      {"title": "Experience presentation", "body": "Show the setting, offering and practical details that help people decide.", "deliverables": ["Hospitality websites", "Menu experiences", "Venue content"]},
+      {"title": "Booking demand", "body": "Develop campaigns around relevant occasions, locations and seasonal booking priorities.", "deliverables": ["Local discovery", "Seasonal campaigns", "Booking landing pages"]},
+      {"title": "Service coordination", "body": "Scope workflows that help staff manage requests and communicate the next step.", "deliverables": ["Enquiry management", "Booking integrations", "Operations reporting"]}
+    ],
+    "proof": "These are proposed hospitality applications, with delivery scope determined around the existing booking and service setup.",
+    "proofSlug": "",
+    "firstStep": "Select one booking journey and review the guest experience alongside the team's handling process."
+  },
+  {
+    "slug": "beauty-wellness-and-personal-care",
+    "name": "Beauty, Wellness and Personal Care",
+    "eyebrow": "Confidence before the first appointment",
+    "headline": "Let your experience speak before you do.",
+    "summary": "People choose a personal-care business through confidence in the service and the experience around it. We help shape the brand, explain the offering and make the path to an appointment feel considered and clear.",
+    "buyer": "Wellness businesses, salons, personal-care brands and service studios.",
+    "questions": ["Does the brand reflect the experience clients actually receive?", "Are services and booking expectations easy to understand?", "How does the team coordinate enquiries and returning customers?"],
+    "tracks": [
+      {"title": "Brand and experience", "body": "Create a consistent presentation that suits the audience and character of the business.", "deliverables": ["Brand identity", "Service websites", "Creative direction"]},
+      {"title": "Relevant discovery", "body": "Help suitable customers discover the offer through useful content and focused campaigns.", "deliverables": ["Local visibility", "Service campaigns", "Social content"]},
+      {"title": "Customer coordination", "body": "Scope practical appointment and follow-up workflows around staff routines and customer preferences.", "deliverables": ["Booking journeys", "Customer workflows", "Service reporting"]}
+    ],
+    "proof": "An owner-confirmed wellness engagement generated at least ₹2 lakh in business from approximately ₹50,000 invested within one month.",
+    "proofSlug": "wellness-growth",
+    "firstStep": "Review the brand, one priority service and its current path from discovery to appointment."
+  },
+  {
+    "slug": "professional-services",
+    "name": "Professional Services",
+    "eyebrow": "Make expertise understandable",
+    "headline": "Help clients understand your value sooner.",
+    "summary": "Professional services are often difficult to evaluate before a conversation. We can make expertise easier to assess, clarify the engagement and organise the administrative work that supports a dependable client experience.",
+    "buyer": "Consultancies, advisory firms and specialist professional practices.",
+    "questions": ["Can a prospective client recognise when to involve your firm?", "Does your website explain your approach with useful examples?", "Which intake or approval steps repeatedly consume professional time?"],
+    "tracks": [
+      {"title": "Expert positioning", "body": "Express the problems you handle, the clients you suit and how engagements work.", "deliverables": ["Positioning workshops", "Practice websites", "Service narratives"]},
+      {"title": "Relevant visibility", "body": "Use useful explanations and appropriate campaigns to reach people considering specialist help.", "deliverables": ["Search content", "Thought-leadership design", "Enquiry campaigns"]},
+      {"title": "Practice workflows", "body": "Scope intake and coordination tools around the information clients and professionals exchange.", "deliverables": ["Client intake", "Document workflows", "Practice dashboards"]}
+    ],
+    "proof": "These are proposed professional-service applications of delivered website, marketing and workflow-software capabilities.",
+    "proofSlug": "",
+    "firstStep": "Choose one engagement type and map its client decision, intake information and internal handoffs."
+  },
+  {
+    "slug": "technology-saas-and-startups",
+    "name": "Technology, SaaS and Startups",
+    "eyebrow": "From a product idea to a useful experience",
+    "headline": "Make your product easier to understand and use.",
+    "summary": "Early teams need to explain what they are building while deciding what deserves to be built next. We can connect product positioning, digital experience and scoped engineering around a specific audience and useful first outcome.",
+    "buyer": "Startup founders, SaaS teams and technology businesses.",
+    "questions": ["Can the intended user explain the product's value back to you?", "What must a first release prove?", "Where does onboarding fail to reach a useful outcome?"],
+    "tracks": [
+      {"title": "Product positioning", "body": "Clarify the audience, use case and evidence needed to support the product story.", "deliverables": ["Positioning workshops", "Product websites", "Demo narratives"]},
+      {"title": "Acquisition and activation", "body": "Connect campaigns and onboarding to a meaningful user action beyond a signup.", "deliverables": ["Launch campaigns", "Onboarding journeys", "Product analytics"]},
+      {"title": "Scoped product development", "body": "Translate a defined workflow into an application or prototype with clear review points.", "deliverables": ["Product scoping", "Custom applications", "Human-reviewed AI"]}
+    ],
+    "proof": "Digiator has delivered custom operational software. Startup and SaaS work is scoped against each product's requirements.",
+    "proofSlug": "manufacturing-pims",
+    "firstStep": "Define one intended user, one valuable task and the smallest release that can test it."
+  },
+  {
+    "slug": "finance-insurance-and-fintech",
+    "name": "Finance, Insurance and Fintech",
+    "eyebrow": "Clarity through considered digital journeys",
+    "headline": "Make complex offerings easier to navigate.",
+    "summary": "Financial decisions require clear information and careful handling of customer details. We can support presentation, enquiry journeys and internal workflows, with the client's authorised reviewers defining product claims and approval requirements.",
+    "buyer": "Financial-service businesses, insurance intermediaries and fintech teams.",
+    "questions": ["Which terms must customers understand before expressing interest?", "Who approves product information and campaign claims?", "What information should each role be able to access?"],
+    "tracks": [
+      {"title": "Clear presentation", "body": "Organise offerings and explanations so customers can understand the relevant next step.", "deliverables": ["Service websites", "Product explainers", "Content review workflows"]},
+      {"title": "Enquiry journeys", "body": "Design campaigns and forms around approved messaging and the information genuinely needed.", "deliverables": ["Reviewed campaign creative", "Enquiry forms", "Journey measurement"]},
+      {"title": "Operational coordination", "body": "Scope applications around access, review responsibilities and traceable changes to records.", "deliverables": ["Role-based workflows", "Approval histories", "Management dashboards"]}
+    ],
+    "proof": "These are proposed applications. No completed finance-sector engagement or regulatory certification is implied.",
+    "proofSlug": "",
+    "firstStep": "Map one customer journey with the business owner and the people responsible for content approval."
+  },
+  {
+    "slug": "automotive-and-mobility",
+    "name": "Automotive and Mobility",
+    "eyebrow": "From vehicle discovery to service coordination",
+    "headline": "Make the next automotive decision easier.",
+    "summary": "A vehicle purchase, workshop booking and fleet-service request follow different paths. We can help present the offer, attract suitable interest and organise the practical information staff need to respond well.",
+    "buyer": "Dealerships, workshops, mobility providers and automotive-service businesses.",
+    "questions": ["Is the priority a purchase, test drive or service booking?", "Can customers find the relevant vehicle or service details?", "Where do staff repeat availability and job-status updates?"],
+    "tracks": [
+      {"title": "Offer presentation", "body": "Make vehicle, service and location information clear across the digital experience.", "deliverables": ["Automotive websites", "Inventory presentation", "Service content"]},
+      {"title": "Local demand", "body": "Match campaigns to a specific customer action and the capacity to fulfil it.", "deliverables": ["Local search", "Test-drive campaigns", "Service booking journeys"]},
+      {"title": "Service operations", "body": "Scope enquiry, booking and job coordination around the tools and roles already involved.", "deliverables": ["Booking workflows", "Job-status systems", "Team dashboards"]}
+    ],
+    "proof": "These are proposed automotive applications, supported by adjacent website, marketing and custom-software experience.",
+    "proofSlug": "",
+    "firstStep": "Choose one vehicle or service journey and identify its customer information and staff handoffs."
+  },
+  {
+    "slug": "logistics-and-supply-chain",
+    "name": "Logistics and Supply Chain",
+    "eyebrow": "Clear capabilities. Better coordination.",
+    "headline": "Bring clarity to the movement of work.",
+    "summary": "Customers need to know whether you serve their route and requirements; operations teams need dependable information. We can help with capability presentation, useful quotation requests and scoped tools for coordinating repetitive operational work.",
+    "buyer": "Transport operators, freight businesses, warehouses and supply-chain teams.",
+    "questions": ["Can buyers assess your routes, services and operating fit?", "Does a quotation request include the details needed to respond?", "Which updates are repeatedly copied across messages and spreadsheets?"],
+    "tracks": [
+      {"title": "Commercial presentation", "body": "Explain services and coverage in terms a procurement or operations buyer can assess.", "deliverables": ["Capability websites", "Service content", "Sales presentations"]},
+      {"title": "Relevant enquiries", "body": "Connect discovery and campaigns to structured requests that help the commercial team qualify work.", "deliverables": ["Search visibility", "RFQ journeys", "Enquiry qualification"]},
+      {"title": "Operational workflows", "body": "Scope coordination tools around existing records, responsible teams and defined status changes.", "deliverables": ["Dispatch workflows", "Status dashboards", "System integrations"]}
+    ],
+    "proof": "Logistics applications are proposed scopes. Delivered manufacturing software provides relevant workflow-design experience.",
+    "proofSlug": "manufacturing-pims",
+    "firstStep": "Follow one quotation or operational update from first entry to final approval."
+  },
+  {
+    "slug": "energy-solar-and-sustainability",
+    "name": "Energy, Solar and Sustainability",
+    "eyebrow": "Explain the project behind the promise",
+    "headline": "Help customers assess the right project.",
+    "summary": "An energy project depends on site conditions, needs and commercial assumptions. We can clarify the offering, structure useful enquiries and scope systems that help teams coordinate assessments, proposals and ongoing project information.",
+    "buyer": "Solar businesses, energy-service providers and sustainability-focused companies.",
+    "questions": ["What information is required before recommending a project?", "Are performance and savings claims tied to stated assumptions?", "How do survey findings reach the proposal and delivery teams?"],
+    "tracks": [
+      {"title": "Technical presentation", "body": "Make the offer and evaluation process understandable without presenting assumptions as guarantees.", "deliverables": ["Service websites", "Project explainers", "Sales collateral"]},
+      {"title": "Project enquiries", "body": "Help suitable prospects provide the site and requirement details needed for assessment.", "deliverables": ["Targeted campaigns", "Assessment forms", "Search content"]},
+      {"title": "Delivery coordination", "body": "Scope structured workflows for assessments, approvals and project progress information.", "deliverables": ["Survey workflows", "Proposal tracking", "Project dashboards"]}
+    ],
+    "proof": "These are proposed energy-sector applications; no specific installation or performance result is claimed.",
+    "proofSlug": "",
+    "firstStep": "Map one project type from initial enquiry through site assessment and proposal approval."
+  },
+  {
+    "slug": "agriculture-and-agribusiness",
+    "name": "Agriculture and Agribusiness",
+    "eyebrow": "Practical systems for seasonal businesses",
+    "headline": "Connect your offer with the people who need it.",
+    "summary": "Agribusiness brings together seasonal demand, different buyer groups and field-based work. We can improve product communication and business discovery while scoping practical information workflows around how dealers, staff and customers actually operate.",
+    "buyer": "Agricultural suppliers, processors, producer businesses and agribusiness teams.",
+    "questions": ["Who makes the buying decision: farmer, dealer or procurement team?", "Which seasonal and regional differences change the message?", "What field information needs to reach the central team?"],
+    "tracks": [
+      {"title": "Product communication", "body": "Explain products, applications and relevant business information for the intended audience.", "deliverables": ["Product websites", "Dealer collateral", "Regional content"]},
+      {"title": "Market discovery", "body": "Develop campaigns around real buying periods, locations and distribution arrangements.", "deliverables": ["Seasonal campaigns", "Dealer enquiries", "Search visibility"]},
+      {"title": "Field and office coordination", "body": "Scope usable record and reporting tools around connectivity and staff working conditions.", "deliverables": ["Field data workflows", "Order coordination", "Management reporting"]}
+    ],
+    "proof": "These are proposed agribusiness applications. Field usability and integration requirements need discovery before implementation.",
+    "proofSlug": "",
+    "firstStep": "Choose one audience and season, then map the buying journey and information needed by staff."
+  },
+  {
+    "slug": "exporters-and-international-trade",
+    "name": "Exporters and International Trade",
+    "eyebrow": "Help international buyers assess your business",
+    "headline": "Make your capabilities clear across borders.",
+    "summary": "An overseas buyer needs enough information to assess fit before requesting a quotation. We can strengthen product presentation, structure international enquiries and help teams coordinate the documents and decisions surrounding a commercial opportunity.",
+    "buyer": "Exporters, trading businesses and manufacturers serving international markets.",
+    "questions": ["Can a buyer find specifications and order requirements easily?", "Which markets and buyer roles should the website address?", "How are quotation versions and supporting documents coordinated?"],
+    "tracks": [
+      {"title": "Export presentation", "body": "Organise products, capabilities and buyer information into a credible digital reference.", "deliverables": ["Export websites", "Digital catalogues", "Capability presentations"]},
+      {"title": "Buyer discovery", "body": "Develop useful content and targeted campaigns around selected markets and product demand.", "deliverables": ["Market-specific pages", "Search campaigns", "Structured RFQs"]},
+      {"title": "Commercial workflows", "body": "Scope tools for organising enquiries, quotations and approved document versions.", "deliverables": ["Quotation tracking", "Document workflows", "Sales reporting"]}
+    ],
+    "proof": "These are proposed trade applications. Market access, logistics and trade advice remain separate from website or software delivery.",
+    "proofSlug": "",
+    "firstStep": "Review one product line from an overseas buyer's first visit to a usable quotation request."
+  },
+  {
+    "slug": "media-entertainment-and-creative-businesses",
+    "name": "Media, Entertainment and Creative Businesses",
+    "eyebrow": "A clear stage for distinctive work",
+    "headline": "Give your creative work a stronger presence.",
+    "summary": "Creative businesses need room for their character and clarity about what can be commissioned. We can shape portfolio experiences, support launches and scope the coordination tools that help teams manage briefs, assets and approvals.",
+    "buyer": "Studios, production businesses, creators and entertainment teams.",
+    "questions": ["Does the presentation communicate your distinctive creative approach?", "Can a prospective client understand how to commission work?", "Where do versions and approval decisions become difficult to track?"],
+    "tracks": [
+      {"title": "Creative presentation", "body": "Build an experience that gives the work context and makes the offer understandable.", "deliverables": ["Portfolio websites", "Brand direction", "Project narratives"]},
+      {"title": "Launch and discovery", "body": "Connect campaign creative and digital channels to a defined release or business objective.", "deliverables": ["Launch campaigns", "Social content", "Audience journeys"]},
+      {"title": "Production coordination", "body": "Scope practical workflows for briefs, asset references and review decisions.", "deliverables": ["Brief intake", "Approval workflows", "Project dashboards"]}
+    ],
+    "proof": "These are proposed creative-sector applications of Digiator's brand, website, campaign and software capabilities.",
+    "proofSlug": "",
+    "firstStep": "Choose one audience and portfolio or release goal, then define what the experience must communicate."
+  },
+  {
+    "slug": "travel-and-tourism",
+    "name": "Travel and Tourism",
+    "eyebrow": "Inspiration with the practical details included",
+    "headline": "Help travellers choose their next experience.",
+    "summary": "A compelling destination needs clear inclusions, expectations and a workable booking path. We can connect travel storytelling and acquisition with enquiry and itinerary workflows that reflect the way your business actually sells and delivers trips.",
+    "buyer": "Tour operators, travel planners and tourism businesses.",
+    "questions": ["Can travellers compare the experience and its inclusions?", "What must you know before preparing a suitable proposal?", "How do itinerary changes reach the people coordinating delivery?"],
+    "tracks": [
+      {"title": "Experience discovery", "body": "Present destinations and trips with useful detail for the intended traveller.", "deliverables": ["Travel websites", "Itinerary content", "Destination creative"]},
+      {"title": "Relevant enquiries", "body": "Connect seasonal campaigns to a clear trip proposition and useful customer information.", "deliverables": ["Seasonal campaigns", "Trip landing pages", "Enquiry forms"]},
+      {"title": "Trip coordination", "body": "Scope systems for quotation versions, booking information and communication between responsible teams.", "deliverables": ["Itinerary workflows", "Booking integrations", "Operations dashboards"]}
+    ],
+    "proof": "These are proposed tourism applications. Booking integrations and delivery workflows require business-specific scoping.",
+    "proofSlug": "",
+    "firstStep": "Review one trip from the traveller's first discovery through proposal, confirmation and pre-trip information."
+  },
+  {
+    "slug": "government-ngos-and-public-sector-organisations",
+    "name": "Government, NGOs and Public-Sector Organisations",
+    "eyebrow": "Useful information. Usable public services.",
+    "headline": "Make programmes easier to understand and access.",
+    "summary": "Public-facing work must serve people with different needs and levels of digital familiarity. We can help explain programmes, improve information journeys and scope administrative systems around clear responsibilities, access and reporting requirements.",
+    "buyer": "NGOs, public-sector teams and organisations delivering public programmes.",
+    "questions": ["Who needs this information and what action must they complete?", "Which language and accessibility needs shape the experience?", "Who reviews submissions and reports on programme activity?"],
+    "tracks": [
+      {"title": "Programme communication", "body": "Make eligibility, process and contact information understandable to the intended audience.", "deliverables": ["Programme websites", "Information design", "Public explainers"]},
+      {"title": "Participation journeys", "body": "Design focused paths for finding information, expressing interest or submitting a request.", "deliverables": ["Outreach campaigns", "Registration journeys", "Accessible content"]},
+      {"title": "Administrative workflows", "body": "Scope internal tools around review responsibilities, data access and defined reporting needs.", "deliverables": ["Submission workflows", "Role-based access", "Programme dashboards"]}
+    ],
+    "proof": "These are proposed applications. No government contract, public-sector approval or programme outcome is claimed.",
+    "proofSlug": "",
+    "firstStep": "Map one public task with its intended users, administrative reviewers and required outcome."
+  },
+  {
+    "slug": "defence-and-aerospace",
+    "name": "Defence and Aerospace",
+    "eyebrow": "Protective research and technical software",
+    "headline": "Support research with clearer information and review.",
+    "summary": "Our work in this area is at prototype and active-research stage. The focus is simulation-led protective analysis, research organisation and decision-support software, with people responsible for interpreting outputs and making decisions.",
+    "buyer": "Research teams and organisations exploring protective technical workflows.",
+    "questions": ["Which research task could benefit from structured information?", "What evidence must a reviewer see alongside an output?", "Which access and evaluation boundaries must the prototype respect?"],
+    "tracks": [
+      {"title": "Research knowledge", "body": "Explore ways to organise approved technical material and make relevant information easier to find.", "deliverables": ["Knowledge organisation", "Research interfaces", "Document workflows"]},
+      {"title": "Protective analysis", "body": "Explore bounded simulation and review workflows for protective-system research.", "deliverables": ["Research prototypes", "Analysis interfaces", "Review records"]},
+      {"title": "Human-led decisions", "body": "Scope technical tools that keep assumptions, outputs and human review visible.", "deliverables": ["Decision-support prototypes", "Evaluation workflows", "Technical dashboards"]}
+    ],
+    "proof": "Prototype and active-research capability only; no production-ready defence product or paying defence client is claimed.",
+    "proofSlug": "",
+    "firstStep": "Use the consultation form to describe a bounded research workflow and its intended review process."
+  }
+]

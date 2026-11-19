@@ -1,0 +1,304 @@
+[
+  {
+    "slug": "healthcare-growth-diagnostic",
+    "title": "Healthcare Growth Diagnostic",
+    "audience": "Clinic owners, practice managers and hospital teams",
+    "description": "Understand where patient discovery, appointment handling and available capacity need a closer look. Use aggregate figures only; do not record names, contact details or medical information.",
+    "instructions": "Choose one service and a recent four-week period. Complete this with the person handling appointments and the person responsible for marketing. Write ‘unknown’ where reliable figures are missing. Keep your notes private.",
+    "sections": [
+      {
+        "title": "1. Establish the baseline",
+        "questions": [
+          "Which service and location are you reviewing? Record the period and the number of appointment slots available.",
+          "How many enquiries, booked appointments and attended appointments were recorded? State the source of each count.",
+          "Which channels produced those enquiries? Separate paid campaigns, referrals, local discovery and unknown sources."
+        ]
+      },
+      {
+        "title": "2. Check the patient journey",
+        "questions": [
+          "Can a visitor find the relevant service, clinician information, location and booking route on a phone? Record any missing information.",
+          "What happens when an enquiry arrives during working hours and after hours? Name the responsible role for each.",
+          "How are unavailable slots, rescheduling and unanswered calls handled? Describe one exception that needs a clearer process."
+        ]
+      },
+      {
+        "title": "3. Separate demand from capacity",
+        "questions": [
+          "Which days or services have unused capacity? Which have waiting times that limit further bookings?",
+          "What aggregate reasons for cancellation or non-attendance are already recorded? Avoid assumptions when the reason is unknown.",
+          "Would more enquiries create extra workload the team cannot currently handle? Identify the operational dependency first."
+        ]
+      },
+      {
+        "title": "4. Choose a manageable investigation",
+        "questions": [
+          "Which one uncertainty matters most: discovery, booking completion, response handling or capacity? Explain your choice.",
+          "What small process or measurement change could help investigate it? Assign an owner and review date.",
+          "Which aggregate measure will you compare before and after, and what other changes might affect the comparison?"
+        ]
+      }
+    ],
+    "nextStep": "Bring your aggregate baseline and one unanswered question to a consultation. These notes support a discussion; they do not establish the cause of a growth problem."
+  },
+  {
+    "slug": "manufacturing-digitisation-checklist",
+    "title": "Manufacturing Digitisation Checklist",
+    "audience": "Factory owners, operations leaders and department heads",
+    "description": "Map one recurring factory workflow before deciding what to digitise. Focus on how work actually moves between people, records and approvals.",
+    "instructions": "Pick a bounded process such as production reporting, maintenance requests or incentive approval. Complete the worksheet with its frontline users and approver. Use anonymised examples and aggregate figures, not employee or supplier details.",
+    "sections": [
+      {
+        "title": "1. Describe today's workflow",
+        "questions": [
+          "What starts this process and what counts as finished? List the main steps in their actual order.",
+          "Which roles enter, check, approve and use the information? Mark any handoff that depends on a particular person.",
+          "Where does each record live today: paper, spreadsheet, messaging or software? Note duplicate entry between systems."
+        ]
+      },
+      {
+        "title": "2. Record the baseline",
+        "questions": [
+          "For a recent typical week, how many items passed through the process? Note any seasonal or shift differences.",
+          "How much hands-on work and waiting time does a typical item require? Label measured figures separately from estimates.",
+          "How many items required correction or clarification? Describe common causes without identifying individual workers."
+        ]
+      },
+      {
+        "title": "3. Make the exceptions visible",
+        "questions": [
+          "What happens with missing data, rejected approvals, late entries and corrections after closure?",
+          "Which rules differ by shift, product, machine or department? Identify who can resolve a disputed rule.",
+          "Who can view, edit and approve each record? What change history must remain available?"
+        ]
+      },
+      {
+        "title": "4. Define a practical first release",
+        "questions": [
+          "Which single workflow could be piloted with a small group? List what must work and what can wait.",
+          "Which existing systems, devices, connectivity or historical records does the pilot depend on? Name the owner of each dependency.",
+          "Who will train users and review the pilot? Set a date and a measurable acceptance condition, such as fewer corrections."
+        ]
+      }
+    ],
+    "nextStep": "Use the completed map to discuss scope. A useful first release needs agreed rules, user involvement and a way to measure adoption—not only a list of screens."
+  },
+  {
+    "slug": "website-conversion-audit",
+    "title": "Website Conversion Audit",
+    "audience": "Business owners, marketing teams and website leads",
+    "description": "Review whether an important page helps the right visitor understand your offer, trust your work and complete a useful next step.",
+    "instructions": "Choose one page, one visitor type and one intended action. Review the page on a phone and a desktop. Use aggregate analytics where available; never paste customer submissions into this workbook. Record observations separately from interpretations.",
+    "sections": [
+      {
+        "title": "1. Identify the visitor's task",
+        "questions": [
+          "Who is this page for, and what are they trying to decide? Write their question in everyday language.",
+          "Where do visitors arrive from? Note whether the campaign, search result or referral prepares them for this page.",
+          "What should the visitor understand after reading the opening screen? Check whether the headline actually provides that information."
+        ]
+      },
+      {
+        "title": "2. Check explanation and evidence",
+        "questions": [
+          "Can a reader describe what you deliver and who it suits? Identify any important term that needs a concrete example.",
+          "What supports your main claims: a relevant project, demonstration, testimonial or clear working process? Note any missing context.",
+          "Which practical buying questions remain unanswered, such as timing, responsibilities, scope or what happens after an enquiry?"
+        ]
+      },
+      {
+        "title": "3. Complete the next step",
+        "questions": [
+          "Can you find and complete the intended action on a phone? Record broken links, confusing labels or unnecessary fields.",
+          "Are form labels, error messages and confirmation states understandable? Check keyboard access as well as tapping.",
+          "Who receives the enquiry, how is it acknowledged and what response does the page promise? Verify the actual handoff."
+        ]
+      },
+      {
+        "title": "4. Plan a focused improvement",
+        "questions": [
+          "For a defined period, record page visits and completed actions. Separate button clicks from successful submissions.",
+          "Which observed issue is worth fixing first, and why? State your hypothesis without treating it as a proven cause.",
+          "Who will make the change and review it? Choose a comparison period and note any traffic or campaign changes."
+        ]
+      }
+    ],
+    "nextStep": "Turn one documented observation into a specific improvement. Use qualified enquiries and business outcomes alongside page-level conversion figures when evaluating the result."
+  },
+  {
+    "slug": "performance-tracking-checklist",
+    "title": "Performance Tracking Checklist",
+    "audience": "Marketing owners, campaign managers and sales teams",
+    "description": "Check whether campaign reporting connects spend and website actions to enquiries the business can actually evaluate.",
+    "instructions": "Review one campaign and one reporting period. Complete this with whoever manages campaigns and whoever receives enquiries. Use aggregate counts and test records only. Keep personal details, account credentials and advertising identifiers out of the worksheet.",
+    "sections": [
+      {
+        "title": "1. Agree on the outcome",
+        "questions": [
+          "What business outcome is the campaign intended to support? Define what makes an enquiry relevant for this offer.",
+          "Which actions are currently counted as conversions? Separate clicks, submitted forms, conversations, appointments and sales.",
+          "Who owns the definitions, and are the same definitions used in campaign reports and sales reporting?"
+        ]
+      },
+      {
+        "title": "2. Verify the measurement path",
+        "questions": [
+          "Using an approved test enquiry, does the intended event fire only after the relevant action completes? Note any duplicate events.",
+          "Do campaign links consistently identify their source? Check redirects, booking tools and other domains used in the journey.",
+          "How does measurement behave when consent is declined or tracking is blocked? Record known gaps rather than assuming complete coverage."
+        ]
+      },
+      {
+        "title": "3. Connect marketing and follow-up",
+        "questions": [
+          "Where are enquiries received and assigned? Name the role responsible for updating their status.",
+          "Can you report aggregate counts for relevant, unreachable, duplicate and unsuitable enquiries? Define each category.",
+          "How are phone calls and messaging enquiries handled? Distinguish a click to contact from an actual conversation."
+        ]
+      },
+      {
+        "title": "4. Reconcile and review",
+        "questions": [
+          "Record campaign spend, platform conversions, received enquiries and qualified opportunities for the same dates. Note time-zone differences.",
+          "Where do counts differ? Check reporting windows, duplicate records, attribution settings and incomplete updates before drawing conclusions.",
+          "Who reviews these figures, how often and what decisions can they support? Choose one unresolved measurement issue to investigate."
+        ]
+      }
+    ],
+    "nextStep": "Create a short measurement specification with agreed definitions, owners and known gaps. Reliable reporting starts with consistent records; different platforms may still attribute outcomes differently."
+  },
+  {
+    "slug": "real-estate-lead-leakage-guide",
+    "title": "Real Estate Enquiry Review",
+    "audience": "Developers, brokerages and project sales teams",
+    "description": "Trace the journey from an enquiry to a site visit and identify where information, ownership or follow-up needs attention.",
+    "instructions": "Choose one project and a recent enquiry cohort, allowing enough time for follow-up. Work with marketing and sales together. Record aggregate counts and anonymised process examples; do not include prospect names, phone numbers or financial information.",
+    "sections": [
+      {
+        "title": "1. Define the project and cohort",
+        "questions": [
+          "Which project, location and property type are you reviewing? What information should prospects know before contacting you?",
+          "Record enquiries received during your chosen dates, separated by source. How are duplicates identified and counted?",
+          "What makes an enquiry suitable for this project? Agree on useful criteria without assuming every enquiry is ready to buy."
+        ]
+      },
+      {
+        "title": "2. Inspect assignment and response",
+        "questions": [
+          "How does an enquiry reach the responsible salesperson? What happens if that person is unavailable?",
+          "What is the typical first-response time during and outside working hours? Mark whether this is measured or estimated.",
+          "How are unanswered enquiries revisited, and how are requests to stop contact respected? Identify the process owner."
+        ]
+      },
+      {
+        "title": "3. Examine the site-visit journey",
+        "questions": [
+          "For the chosen cohort, how many enquiries became conversations, suitable prospects, booked visits and attended visits?",
+          "What project information, directions and appointment details are sent before a visit? Who keeps this information current?",
+          "What aggregate reasons are recorded for cancellations or lack of progress? Separate known reasons from salesperson assumptions."
+        ]
+      },
+      {
+        "title": "4. Choose one improvement",
+        "questions": [
+          "Where is the clearest documented friction: campaign expectations, assignment, information quality, scheduling or follow-up?",
+          "What change could the team test without changing every stage at once? Assign a responsible role and review date.",
+          "Which measure will indicate progress, and which project changes could distort the comparison, such as pricing or inventory?"
+        ]
+      }
+    ],
+    "nextStep": "Discuss the evidence with both teams before changing advertising spend. A drop between stages can suggest a question to investigate; it does not establish why a prospect stopped progressing."
+  },
+  {
+    "slug": "education-admissions-funnel",
+    "title": "Education Admissions Review",
+    "audience": "Schools, colleges, training institutes and admissions teams",
+    "description": "Review how prospective students and families move from discovering a programme to making an informed enrolment decision.",
+    "instructions": "Choose one programme and one intake. Complete this with admissions and marketing colleagues. Compare equivalent points in the admissions calendar. Use aggregate figures only; do not record student identities, application documents or personal circumstances.",
+    "sections": [
+      {
+        "title": "1. Establish the intake baseline",
+        "questions": [
+          "Which programme and intake are you reviewing? Record capacity, key dates and the current stage of the admissions cycle.",
+          "How many enquiries, counselling conversations, applications and confirmed enrolments are recorded? Define each stage.",
+          "Which discovery channels contribute enquiries? Note missing source information and avoid attributing every enrolment to the last contact."
+        ]
+      },
+      {
+        "title": "2. Understand the decision",
+        "questions": [
+          "What do students and families need to know about eligibility, curriculum, fees, schedules and outcomes? Identify unanswered questions.",
+          "Where do student and parent questions differ? Describe how the page or counselling process addresses both.",
+          "Which claims need clearer evidence or qualifications? Check that career outcomes are presented accurately without implying guarantees."
+        ]
+      },
+      {
+        "title": "3. Follow the application journey",
+        "questions": [
+          "Who receives enquiries and offers the next appropriate step? What happens during peak periods or staff absence?",
+          "Can an applicant understand the required steps, deadlines and document process? Note where people repeatedly seek clarification.",
+          "How are incomplete applications, deferred decisions and unsuitable enquiries handled? Identify the responsible role for each exception."
+        ]
+      },
+      {
+        "title": "4. Review progress responsibly",
+        "questions": [
+          "For the chosen enquiry cohort, which stages are complete and which are still pending? Allow for the length of the decision cycle.",
+          "What aggregate reasons for not progressing are documented? Keep unknown reasons visible rather than filling them with assumptions.",
+          "Choose one change to information, handling or measurement. Assign an owner, a review date and a relevant measure of progress."
+        ]
+      }
+    ],
+    "nextStep": "Use the worksheet to agree on one admissions question worth investigating. Review clarity and applicant fit alongside enrolment volume, and account for seasonality when comparing results."
+  },
+  {
+    "slug": "custom-software-requirements-workbook",
+    "title": "Custom Software Requirements Workbook",
+    "audience": "Business owners, operations teams and project sponsors",
+    "description": "Describe the work your software needs to support before discussing features, budgets or a delivery schedule.",
+    "instructions": "Pick one core workflow. Invite the person who does the work, its approver and the project sponsor. Use fictional or anonymised examples. Record uncertainties explicitly; this is a discovery aid, not a completed specification.",
+    "sections": [
+      {
+        "title": "1. Define the problem",
+        "questions": [
+          "What work is difficult today, who experiences the difficulty and how often does it occur? Give one concrete example.",
+          "What begins the workflow and what counts as completion? List the current steps and tools.",
+          "Which baseline could show improvement: processing time, corrections, waiting time or another observable measure?"
+        ]
+      },
+      {
+        "title": "2. Describe users and rules",
+        "questions": [
+          "Which roles create, view, edit, approve or export information? Note any separation of responsibilities.",
+          "What calculations, eligibility rules or approval limits must the system follow? Who can confirm each rule?",
+          "What happens when data is missing, approval is rejected or a completed record needs correction?"
+        ]
+      },
+      {
+        "title": "3. Identify dependencies",
+        "questions": [
+          "Which existing systems must exchange information? Record the system owner and whether an integration method is known.",
+          "What historical information needs migration? Who will check its quality and decide what to retain?",
+          "What access controls, backup arrangements, devices or connectivity constraints affect daily use? Mark anything needing specialist review."
+        ]
+      },
+      {
+        "title": "4. Shape the first release",
+        "questions": [
+          "Which complete workflow must the first release support? Separate essential requirements from later improvements.",
+          "Write three realistic acceptance examples, including one exception. What should the user be able to do in each?",
+          "Who can make scope decisions, review demonstrations and approve release? Record any fixed deadline and its reason."
+        ]
+      },
+      {
+        "title": "5. Plan for everyday use",
+        "questions": [
+          "Who will test the software with representative users and organise training?",
+          "Who owns support, user access and future changes after launch? Identify expectations that still need agreement.",
+          "When will you review adoption and the baseline measure? What feedback will determine the next improvement?"
+        ]
+      }
+    ],
+    "nextStep": "Bring this workbook to a discovery conversation. Estimates become more useful once workflow rules, dependencies, acceptance criteria and responsibility are understood."
+  }
+]

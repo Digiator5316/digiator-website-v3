@@ -1,0 +1,267 @@
+[
+  {
+    "path": "/",
+    "title": "Growth, websites & software built around your business",
+    "description": "Grow your business and improve how it runs. Digiator combines strategy, marketing, brand, websites and software. Request a free co-founder consultation."
+  },
+  {
+    "path": "/services/",
+    "title": "Capabilities",
+    "description": "Explore Digiator\u2019s seven capabilities, from strategy and campaigns to websites, automation and custom software."
+  },
+  {
+    "path": "/services/strategy/",
+    "title": "Strategy & digital consulting",
+    "description": "A market to enter, an offer to launch or a business process to change. Work out what matters first, what the work involves and what needs evidence."
+  },
+  {
+    "path": "/services/performance-marketing/",
+    "title": "Performance marketing",
+    "description": "Google and Meta campaigns built around your offer, the buying decision and the team responding to enquiries. Follow the journey beyond the click."
+  },
+  {
+    "path": "/services/seo-content-social/",
+    "title": "SEO, content & social",
+    "description": "Answer the questions your customers are already asking. Build search visibility, website content and a social presence around what helps them understand and choose."
+  },
+  {
+    "path": "/services/brand-creative-ai/",
+    "title": "Brand, creative & AI media",
+    "description": "Positioning, identity, creative and media that help the right customers understand your value\u2014and recognise it wherever they meet your business."
+  },
+  {
+    "path": "/services/websites/",
+    "title": "Websites & digital experiences",
+    "description": "Help visitors understand your offer, see why it fits and take the next step. Content, design and development built around that decision\u2014on desktop and mobile."
+  },
+  {
+    "path": "/services/data-crm-automation/",
+    "title": "Data, CRM & automation",
+    "description": "Bring enquiries, records, responsibilities and reporting into a process your team can follow. Automate the repeatable steps and keep the exceptions visible."
+  },
+  {
+    "path": "/services/custom-software-ai/",
+    "title": "Custom software & AI systems",
+    "description": "Custom applications for the processes a standard tool does not fit. Make the roles, calculations, approvals and information work together\u2014with AI where the task calls for it."
+  },
+  {
+    "path": "/industries/",
+    "title": "Industries",
+    "description": "Growth, websites and operational technology shaped around 20 business sectors."
+  },
+  {
+    "path": "/industries/healthcare-and-medical/",
+    "title": "Healthcare and Medical",
+    "description": "A clinic seeking patients and a hospital coordinating departments need different answers. We connect relevant acquisition and digital experience work with carefully scoped operational systems, starting with the people and processes involved."
+  },
+  {
+    "path": "/industries/education-and-training/",
+    "title": "Education and Training",
+    "description": "Choosing a course involves outcomes, credibility, timing and often a parent or employer. We can improve how an institution presents its offer, manages admissions and coordinates the work behind each learner's experience."
+  },
+  {
+    "path": "/industries/manufacturing-and-industrial/",
+    "title": "Manufacturing and Industrial",
+    "description": "Production, HR and finance can see the same transaction differently. We translate those responsibilities into usable software, while helping industrial businesses present their capabilities clearly to technical buyers and procurement teams."
+  },
+  {
+    "path": "/industries/real-estate-and-property/",
+    "title": "Real Estate and Property",
+    "description": "A property decision depends on location, suitability, confidence and timing. We help present the offer, attract relevant interest and organise the journey from first enquiry to site visit with useful context at each step."
+  },
+  {
+    "path": "/industries/architecture-interiors-and-home-improvement/",
+    "title": "Architecture, Interiors and Home Improvement",
+    "description": "A beautiful portfolio should help a prospective client understand your approach and whether their project fits. We connect project storytelling, relevant acquisition and practical enquiry workflows for design and home-improvement businesses."
+  },
+  {
+    "path": "/industries/retail-and-e-commerce/",
+    "title": "Retail and E-commerce",
+    "description": "An online shop needs a clear product offer and a reliable experience after checkout. We can work across acquisition, storefront presentation and the operational information that helps a retail team serve customers consistently."
+  },
+  {
+    "path": "/industries/hospitality-food-and-events/",
+    "title": "Hospitality, Food and Events",
+    "description": "A room, a restaurant table and an event venue involve different decisions. We can help communicate the experience, match campaigns to booking needs and improve how teams coordinate requests, availability and guest information."
+  },
+  {
+    "path": "/industries/beauty-wellness-and-personal-care/",
+    "title": "Beauty, Wellness and Personal Care",
+    "description": "People choose a personal-care business through confidence in the service and the experience around it. We help shape the brand, explain the offering and make the path to an appointment feel considered and clear."
+  },
+  {
+    "path": "/industries/professional-services/",
+    "title": "Professional Services",
+    "description": "Professional services are often difficult to evaluate before a conversation. We can make expertise easier to assess, clarify the engagement and organise the administrative work that supports a dependable client experience."
+  },
+  {
+    "path": "/industries/technology-saas-and-startups/",
+    "title": "Technology, SaaS and Startups",
+    "description": "Early teams need to explain what they are building while deciding what deserves to be built next. We can connect product positioning, digital experience and scoped engineering around a specific audience and useful first outcome."
+  },
+  {
+    "path": "/industries/finance-insurance-and-fintech/",
+    "title": "Finance, Insurance and Fintech",
+    "description": "Financial decisions require clear information and careful handling of customer details. We can support presentation, enquiry journeys and internal workflows, with the client's authorised reviewers defining product claims and approval requirements."
+  },
+  {
+    "path": "/industries/automotive-and-mobility/",
+    "title": "Automotive and Mobility",
+    "description": "A vehicle purchase, workshop booking and fleet-service request follow different paths. We can help present the offer, attract suitable interest and organise the practical information staff need to respond well."
+  },
+  {
+    "path": "/industries/logistics-and-supply-chain/",
+    "title": "Logistics and Supply Chain",
+    "description": "Customers need to know whether you serve their route and requirements; operations teams need dependable information. We can help with capability presentation, useful quotation requests and scoped tools for coordinating repetitive operational work."
+  },
+  {
+    "path": "/industries/energy-solar-and-sustainability/",
+    "title": "Energy, Solar and Sustainability",
+    "description": "An energy project depends on site conditions, needs and commercial assumptions. We can clarify the offering, structure useful enquiries and scope systems that help teams coordinate assessments, proposals and ongoing project information."
+  },
+  {
+    "path": "/industries/agriculture-and-agribusiness/",
+    "title": "Agriculture and Agribusiness",
+    "description": "Agribusiness brings together seasonal demand, different buyer groups and field-based work. We can improve product communication and business discovery while scoping practical information workflows around how dealers, staff and customers actually operate."
+  },
+  {
+    "path": "/industries/exporters-and-international-trade/",
+    "title": "Exporters and International Trade",
+    "description": "An overseas buyer needs enough information to assess fit before requesting a quotation. We can strengthen product presentation, structure international enquiries and help teams coordinate the documents and decisions surrounding a commercial opportunity."
+  },
+  {
+    "path": "/industries/media-entertainment-and-creative-businesses/",
+    "title": "Media, Entertainment and Creative Businesses",
+    "description": "Creative businesses need room for their character and clarity about what can be commissioned. We can shape portfolio experiences, support launches and scope the coordination tools that help teams manage briefs, assets and approvals."
+  },
+  {
+    "path": "/industries/travel-and-tourism/",
+    "title": "Travel and Tourism",
+    "description": "A compelling destination needs clear inclusions, expectations and a workable booking path. We can connect travel storytelling and acquisition with enquiry and itinerary workflows that reflect the way your business actually sells and delivers trips."
+  },
+  {
+    "path": "/industries/government-ngos-and-public-sector-organisations/",
+    "title": "Government, NGOs and Public-Sector Organisations",
+    "description": "Public-facing work must serve people with different needs and levels of digital familiarity. We can help explain programmes, improve information journeys and scope administrative systems around clear responsibilities, access and reporting requirements."
+  },
+  {
+    "path": "/industries/defence-and-aerospace/",
+    "title": "Defence and Aerospace",
+    "description": "Our work in this area is at prototype and active-research stage. The focus is simulation-led protective analysis, research organisation and decision-support software, with people responsible for interpreting outputs and making decisions."
+  },
+  {
+    "path": "/case-studies/",
+    "title": "Selected work",
+    "description": "Explore six Digiator case studies in manufacturing software, healthcare, construction, property and wellness."
+  },
+  {
+    "path": "/case-studies/manufacturing-pims/",
+    "title": "From manual calculations to a working production platform.",
+    "description": "A custom incentive system that gives production, managers and HR a defined path from entry to approval."
+  },
+  {
+    "path": "/case-studies/healthcare-growth/",
+    "title": "Following the journey all the way to the appointment.",
+    "description": "A five-city campaign measured enquiries, appointments and patients, giving the team a more useful view than lead volume alone."
+  },
+  {
+    "path": "/case-studies/construction-leadgen/",
+    "title": "Reach the plot owner with the right conversation.",
+    "description": "A lead-generation approach that used plot size to bring more useful context into the first enquiry."
+  },
+  {
+    "path": "/case-studies/real-estate-sitevisit/",
+    "title": "A property journey built around the site visit.",
+    "description": "Brand identity, a website and campaign journeys brought together for a premium property channel partner."
+  },
+  {
+    "path": "/case-studies/wellness-growth/",
+    "title": "Making a distinctive experience easy to understand.",
+    "description": "A wellness-tourism concept expressed through its positioning, website and marketing."
+  },
+  {
+    "path": "/case-studies/clinic-reputation-recovery/",
+    "title": "Understanding the gap between enquiries and visits.",
+    "description": "An anonymised clinic turnaround involving local reputation and the journey from enquiry to walk-in."
+  },
+  {
+    "path": "/about/",
+    "title": "About Digiator",
+    "description": "Founder-led conversations, connected skills and work built around your business. Meet the approach behind Digiator."
+  },
+  {
+    "path": "/resources/",
+    "title": "Free workbooks & guides",
+    "description": "Seven practical tools for a clearer website, campaign, customer journey or software brief."
+  },
+  {
+    "path": "/resources/healthcare-growth-diagnostic/",
+    "title": "Healthcare Growth Diagnostic",
+    "description": "Find the gaps between discovery, appointment and arrival."
+  },
+  {
+    "path": "/resources/manufacturing-digitisation-checklist/",
+    "title": "Manufacturing Digitisation Checklist",
+    "description": "Map a recurring factory process before choosing software."
+  },
+  {
+    "path": "/resources/website-conversion-audit/",
+    "title": "Website Conversion Audit",
+    "description": "Check what visitors understand, trust and do on your website."
+  },
+  {
+    "path": "/resources/performance-tracking-checklist/",
+    "title": "Performance Tracking Checklist",
+    "description": "Connect campaign spend to enquiries and business outcomes."
+  },
+  {
+    "path": "/resources/real-estate-lead-leakage-guide/",
+    "title": "Real Estate Enquiry Review",
+    "description": "See where property enquiries lose momentum before a visit."
+  },
+  {
+    "path": "/resources/education-admissions-funnel/",
+    "title": "Education Admissions Review",
+    "description": "Review the path from programme discovery to enrolment."
+  },
+  {
+    "path": "/resources/custom-software-requirements-workbook/",
+    "title": "Custom Software Requirements Workbook",
+    "description": "Turn a business process into a useful software brief."
+  },
+  {
+    "path": "/consultation/",
+    "title": "Free consultation",
+    "description": "Tell us what you want to change, build or understand. Your first conversation is with a co-founder, so we can explore the business behind the brief."
+  },
+  {
+    "path": "/contact/",
+    "title": "Contact Digiator",
+    "description": "A new project, an idea to explore or a question about existing work\u2014here\u2019s how to reach the team."
+  },
+  {
+    "path": "/faq/",
+    "title": "Questions & answers",
+    "description": "Answers about Digiator\u2019s services, consultation, scope, ownership, support and resources."
+  },
+  {
+    "path": "/privacy/",
+    "title": "Privacy information",
+    "description": "How this website handles the information you choose to share."
+  },
+  {
+    "path": "/cookies/",
+    "title": "Cookie information",
+    "description": "A simple explanation of this website\u2019s browser behaviour."
+  },
+  {
+    "path": "/terms/",
+    "title": "Website terms",
+    "description": "The basis for using this website and its resources."
+  },
+  {
+    "path": "/404/",
+    "title": "Page not found",
+    "description": "Find your way back to Digiator."
+  }
+]
